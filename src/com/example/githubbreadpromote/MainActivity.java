@@ -12,6 +12,8 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		
 		//r2_contacts file
+		//r2_contacts file
+		//r2_contacts file
 	}
 
 	@Override
